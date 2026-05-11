@@ -1,3 +1,16 @@
-# Abel-react-
+# React + Vite
 
-First of all, i still do prefer die often take a life without her. Maybe i don't miss her i just want what we could be. well for now i just a single tip. rether i just stand here, doning nothing or run against her, try to reach at her being a fool. I dunno but everything that i want is being in her side stand there and never leave. cuz in the end of the world I'll be there in her side trying to do my best. taking care of her, nathalya, yes i still do love you, perharps forever, i dunno but i'ts time to know if you like me or not
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
