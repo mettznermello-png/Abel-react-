@@ -1,1 +1,3 @@
 # Abel-react-
+
+First of all, i still do prefer die often take a life without her. Maybe i don't miss her i just want what we could be. well for now i just a single tip. rether i just stand here, doning nothing or run against her, try to reach at her being a fool. I dunno but everything that i want is being in her side stand there and never leave. cuz in the end of the world I'll be there in her side trying to do my best. taking care of her, nathalya, yes i still do love you, perharps forever, i dunno but i'ts time to know if you like me or not
